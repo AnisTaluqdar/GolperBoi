@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.abhi">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/navigate"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/navigate"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".AboutMe" />
+        <activity android:name=".BT2" />
+        <activity android:name=".BT3" />
+        <activity android:name=".BT4" />
+        <activity android:name=".BT5" />
+        <activity android:name=".BT6" />
+        <activity android:name=".BT7" />
+        <activity android:name=".BT8" />
+        <activity android:name=".BT9" />
+        <activity android:name=".BT10" />
+        <activity android:name=".BT11" />
+        <activity android:name=".BT12" />
+        <activity android:name=".BT13" />
+        <activity android:name=".BT14" />
+        <activity android:name=".BT15" />
+        <activity android:name=".BT16" />
+        <activity android:name=".BT17" />
+        <activity android:name=".BT18" />
+        <activity android:name=".BT19" />
+        <activity android:name=".BT20" />
+        <activity android:name=".BT21" />
+        <activity android:name=".BT22" />
+        <activity android:name=".BT23" />
+        <activity android:name=".BT24"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/colorAsh"
+    tools:context=".MainActivity"
+    >
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       >
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical">
+
+           <Button
+               android:id="@+id/BT1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০১. লিভারপুল হেরাল্ডের ছোট্ট এক খবর"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT2"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০২. সমুদ্রে যাত্রার সব আয়োজনই প্রায় শেষ"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT3"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৩. জাহাজ সমুদ্রে ভাসতেই সবকিছু স্বাভাবিক"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT4"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৪. নানান ঝড় ঝাপটার মধ্যে দিয়ে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT5"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৫. ডক্টর ক্লবোনি অনিশ্চিত অবস্থায়"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT6"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৬. ক্যাপ্টেনকে তার কেবিন থেকে বেরুতে দেখে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT7"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৭. ফরওয়ার্ডের ক্যাপ্টেনকে পেয়ে সবারই খুশি"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT8"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৮. জাহাজ যতই এগিয়ে চলছে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT9"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="০৯. জাহাজের পরিস্থিতি থমথমে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT10"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১০. প্রতিদিন শীতের প্রকোপ ক্রমেই বাড়ছে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT11"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১১. প্রথমদিনেই বিশ মাইল পথ"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT12"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১২. অশান্তি, অসন্তোষ চারদিক থেকে ঘিরে ধরেছে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT13"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৩. বিশাল বরফ প্রান্তর"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT14"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৪. আবার নতুন করে যাত্রা শুরু হল"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT15"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৫. ডক্টর আর জনসন ভালুকটার মাংস কেটে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT16"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৬. ডক্টর ক্লবোনির বুদ্ধির জোরে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT17"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৭. ডক্টর ক্লবোনির মাথায় নিত্য নতুন খেয়াল"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT18"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৮. সময় আর কাটতে চায় না"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT19"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="১৯. হঠাৎ করেই যেন প্রকৃতি বদলে গেল"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT20"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="২০. হরিণ ও খরগোসের নির্ভয় ছুটাছুটি দেখে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT21"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="২১. মেরু অভিযাত্রীদের নৌকা"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT22"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="২২. এই সেই উত্তর মেরু-ক্যাপ্টেন হ্যাটেরাস"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT23"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="২৩. এত বড় বিজয়ের গৌরবে"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BT24"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="২৪. ডক্টরের সেবা শুশ্রুষা"
+               android:textAlignment="center"
+               android:textStyle="bold"
+               android:layout_margin="5dp"
+
+               android:textColor="#000000"
+
+               android:background="#89d3d4"/>
+           <Button
+               android:id="@+id/BTABHI"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:text="about me"/>
+
+
+
+       </LinearLayout>
+
+
+
+   </ScrollView>
+
+
+</LinearLayout>
